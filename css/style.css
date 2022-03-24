@@ -1,0 +1,29 @@
+li {
+  list-style: none;
+}
+
+/* #nav-bar{
+  position: fixed;
+} */
+#nav-bar {
+  position: fixed;
+  top: 0;
+}
+
+button {
+  border: none;
+}
+
+img {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.w-90 {
+  width: 90%;
+}
